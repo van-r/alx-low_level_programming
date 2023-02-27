@@ -1,4 +1,5 @@
 0x05. C - POINTERS, ARRAYS, AND STRINGS
+
 Task 0: 98 Battery st.
 Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 Prototype: void reset_to_98(int *n);*
@@ -15,4 +16,6 @@ Task 3:  I do not fear computers. I fear the lack of them
 Write a function that prints a string, followed by a new line, to stdout.
 Prototype: void _puts(char *str);_
 
-
+Task 4: I can only go one way. I've not got a reverse gear
+Write a function that prints a string, in reverse, followed by a new line.
+Prototype: void print_rev(char *s);*
